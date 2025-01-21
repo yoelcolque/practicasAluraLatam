@@ -1,46 +1,89 @@
-# Amigo Secreto - Gestión de Amigos
+# 🎉 Amigo Secreto 🎁  
 
-Este proyecto es una aplicación web simple que permite a los usuarios gestionar una lista de amigos, agregar nombres, visualizar la lista, y seleccionar un amigo secreto de manera aleatoria. Fue desarrollado con JavaScript, HTML y CSS, utilizando lógica sencilla para fortalecer habilidades de programación.
+![Portada del Proyecto](assets/amigo-secreto.png)  
 
-📂 amigo-secreto
+---
 
-├── 📄 index.html        # Archivo principal de la interfaz
+## 🛠 Estado del Proyecto  
 
-├── 📄 style.css         # Estilos para la interfaz
+<p align="center">
+   <img src="https://img.shields.io/badge/STATUS-  %20FINALIZADO-green">
+   <img src="https://img.shields.io/badge/VERSION-  %20v1.3.2-blue">
+</p>  
 
-├── 📄 app.js            # Lógica del proyecto
+---
 
-└── 📄 README.md         # Documentación del proyecto
+## 📜 Índice  
 
+1. [Descripción del Proyecto](#📝-descripción-del-proyecto)  
+2. [Características](#🛠️-características)  
+3. [Acceso al Proyecto](#🌐-acceso-al-proyecto)  
+4. [Tecnologías Utilizadas](#🔧-tecnologías-utilizadas)  
+5. [Proceso de Desarrollo](#🛠️-proceso-de-desarrollo)  
+6. [Personas Desarrolladoras](#👩‍💻-personas-desarrolladoras)  
+7. [Licencia](#📝-licencia)  
+
+---
+
+## 📝 Descripción del Proyecto  
+
+Amigo Secreto es una aplicación interactiva que permite:  
+- Agregar amigos a una lista.  
+- Mostrar la lista actualizada de los amigos agregados.  
+- Sortear aleatoriamente un amigo secreto.  
+
+La aplicación está diseñada para ser divertida, dinámica y fácil de usar.  
+
+---
+
+## 🛠️ Características  
+
+- **Agregar Amigos**: Añade nombres a la lista de amigos de forma dinámica.  
+- **Visualización de la Lista**: Muestra y actualiza la lista de amigos en tiempo real.  
+- **Sorteo Aleatorio**: Escoge un amigo secreto aleatoriamente de la lista.  
+
+---
+
+## 🌐 Acceso al Proyecto  
+
+### Enlace al Proyecto en Producción:  
+**[Amigo Secreto](https://yoelcolque.github.io/practicasAluraLatam/)**  
+
+### 📁 Acceso al Código Fuente  
+Puedes clonar el proyecto con el siguiente comando:  
+
+```bash  
+git clone https://github.com/tuusuario/AmigoSecreto.git  
+```
 
 ## Diagram de flujo
 
 ![Diagrama de flujo](assets/Diagrama_Flujo_Amigo_Secreto_Corregido.png)
 
-## Funcionalidades
+## 🔧 Tecnologías Utilizadas  
 
-- **Agregar Amigo**: Permite al usuario agregar nombres a una lista de amigos.
-- **Actualizar Lista**: Muestra dinámicamente la lista actualizada en la interfaz.
-- **Sortear Amigo**: Selecciona de manera aleatoria un nombre de la lista.
-- **Validación de Entradas**: Comprueba que los campos no estén vacíos antes de procesarlos.
+- **HTML5**: Para la estructura de la aplicación.  
+- **CSS3**: Para el diseño visual.  
+- **JavaScript**: Para la lógica del proyecto.  
+- **Trello**: Para la gestión de tareas.  
 
-## Requisitos de Instalación
+Enlace al tablero de Trello utilizado en el desarrollo:  
+[Challenge Amigo Secreto](https://trello.com/invite/b/678ef0f13eea3d720fa64143/ATTI9835fe9a6361143df75831d4bb645f00B3D5AAC0/trello-challenge-amigo-secreto-esp)  
 
-1. Clonar este repositorio:
-   ```bash
-   git clone https://github.com/yoelcolque/practicasAluraLatam.git
+---
 
-## Proceso de Desarrollo
+## 🛠️ Proceso de Desarrollo  
 
-Para gestionar las tareas y el flujo de trabajo, utilizamos un tablero de Trello. Puedes acceder al tablero para ver las etapas del desarrollo:
+El desarrollo del proyecto se gestionó con ramas específicas:  
 
-- [Tablero de Trello: Challenge Amigo Secreto](https://trello.com/invite/b/678ef0f13eea3d720fa64143/ATTI9835fe9a6361143df75831d4bb645f00B3D5AAC0)
+- **`main`**: Contiene la versión estable del proyecto.  
+- **`funAgregarAmigos`**: Rama para la funcionalidad de agregar amigos.  
+- **`funActualizarListaAmigos`**: Rama para la funcionalidad de actualización de la lista en la interfaz.  
+- **`funSortearAmigo`**: Rama para implementar el sorteo del amigo secreto.  
 
-## Ramas Utilizadas
+---
 
-Durante el desarrollo, se utilizaron las siguientes ramas en el control de versiones:
+## 👩‍💻 Personas Desarrolladoras  
 
-- **main**: Rama principal con la versión estable.
-- **funAgregarAmigos**: Implementación de la funcionalidad para agregar amigos.
-- **funActualizarListaAmigos**: Funcionalidad para actualizar dinámicamente la lista en la interfaz.
-- **funSortearAmigo**: Implementación de la lógica para sortear un amigo secreto.
+| [<img src="https://avatars.githubusercontent.com/u/1234563" width=115><br><sub>Yoel Dev</sub>](https://github.com/yoelcolque) |  
+| :---: |  
